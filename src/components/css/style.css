@@ -1,0 +1,38 @@
+.box{
+    background-color: aquamarine;
+    min-height: 75vh;
+    margin: 25px 312px;
+    border-radius: 6%;
+    padding: 15px;
+}
+.imageWidth{
+    width: 45px;
+}
+.imageWidth1{
+    width: 25px;
+}
+.mTop{
+    margin-top: 81px;
+}
+body{
+    background-color: rgba(212, 204, 210, 0.623);
+}
+.mT{
+    margin-top: 35px;
+}
+.mR{
+    margin-right: 15px;
+}
+.mL{
+    margin-left: 105px;
+}
+.container1{
+    margin: 55px 155px;
+    background-color: rgba(154, 199, 161, 0.466);
+    color: black;
+    min-height: 395px;
+    padding: 15px;
+}
+.mTop1{
+    margin-top: 125px;
+}
