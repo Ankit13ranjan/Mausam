@@ -34,5 +34,15 @@ body{
     padding: 15px;
 }
 .mTop1{
-    margin-top: 125px;
+    margin-top: 101px;
+}
+.removeUnderline{
+    text-decoration: none;
+}
+.removeUnderline:hover{
+    color: aliceblue;
+}
+.imageSizeSelf{
+    width: 75%;
+    border-radius: 6%;
 }
