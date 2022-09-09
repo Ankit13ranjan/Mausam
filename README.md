@@ -1,3 +1,11 @@
+# MAUSAM
+
+Mausam is a Weather App Made by using React Js.
+Fetch Data through API and Reflect stats of Different Places.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
